@@ -97,15 +97,6 @@ streamlit run app.py
 ### Scores by Parental Education
 ![Parental Education](scores_by_parent_edu.png)
 
-## 👤 Author
-**Yajat Suri** · [LinkedIn](https://linkedin.com/in/yajat-suri) · [GitHub](https://github.com/yajatsuri)
-EOF
-Then push:
-bashgit add .
-git commit -m "Add README, gitignore, rename notebook"
-git push
-Tell me when push is done! 🚀Last login: Sat Apr 18 11:48:45 on ttys000
-yajatsuri@Yajats-MacBook-Air ~ % >....                                          
 ## 🚀 Run Locally
 bash
 git clone https://github.com/yajatsuri/student-score-predictor.git
