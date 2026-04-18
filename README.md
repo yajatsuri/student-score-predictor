@@ -16,15 +16,17 @@ This project builds a predictive system to estimate reading scores and flag high
 
 ## ⚙️ System Architecture
 
+```text
 User Input (Streamlit UI)
-↓
+        ↓
 Data Preprocessing (Encoding, Scaling)
-↓
+        ↓
 ML Model (Linear Regression / Random Forest)
-↓
+        ↓
 Prediction Output (Score + Classification)
-↓
+        ↓
 Visualization Layer (EDA + Feature Insights)
+```
 ## 📊 Results
 
 | Model              | R² Score | RMSE |
@@ -99,4 +101,3 @@ streamlit run app.py
 
 ## 👤 Author
 **Yajat Suri** · [LinkedIn](https://linkedin.com/in/yajat-suri) · [GitHub](https://github.com/yajatsuri)
-EOF
