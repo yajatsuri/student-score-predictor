@@ -97,18 +97,6 @@ streamlit run app.py
 ### Scores by Parental Education
 ![Parental Education](scores_by_parent_edu.png)
 
-## 🚀 Run Locally
-bash
-git clone https://github.com/yajatsuri/student-score-predictor.git
-cd student-score-predictor
-pip install -r requirements.txt
-streamlit run app.py
-## 📈 Charts### Score Distributions
-![Score Distributions](score_distributions.png)
-### Feature Importance
-![Feature Importance](feature_importance.png)
-### Scores by Parental Education
-![Parental Education](scores_by_parent_edu.png)
 ## 👤 Author
 **Yajat Suri** · [LinkedIn](https://linkedin.com/in/yajat-suri) · [GitHub](https://github.com/yajatsuri)
 EOF
